@@ -1,2 +1,2 @@
 # World-Of-Warcraft
-weak aura for world of warcraft
+Some weak aura for world of warcraft
