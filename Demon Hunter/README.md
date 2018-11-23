@@ -1,4 +1,4 @@
-# Demon Hunter Knight Weak Aura
+# Demon Hunter Weak Aura
 
 1) you just need to click on file and copy the string, then go on World of Warcraft open your tchat write /wa
 2) then select New 
